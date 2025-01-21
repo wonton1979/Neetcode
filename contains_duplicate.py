@@ -1,7 +1,9 @@
 """
 Contains Duplicate
 
-Status: Solved on the first attempt
+Status: Solved on the first attempt, Time between first attempt and last attempt was 0
+
+Problems description:
 
 Given an integer array nums, return true if any value appears more than once in the array, otherwise return false.
 
